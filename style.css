@@ -15,6 +15,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 2px solid;
+  font-size: 3rem;
 }
 
 .item:nth-child(1) {
