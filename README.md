@@ -1,2 +1,3 @@
 # terminal
-HTML &amp; CSS
+
+HTML &amp; CSS &amp; JS
